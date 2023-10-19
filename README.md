@@ -4,8 +4,6 @@
 This is a simple code editor with advanced functionality. It allows you to write, edit, and execute code directly in your web browser. The editor comes with features like syntax highlighting, code execution, and the ability to save and copy your code.
 
 ## Features
-
-- Syntax highlighting for various programming languages.
 - Code execution directly in the browser.
 - Copy code to the clipboard.
 - Save your code to local storage.
@@ -19,13 +17,11 @@ This is a simple code editor with advanced functionality. It allows you to write
 - CodeMirror 
 
 ## Usage
-
-1. Open `index.html` in your web browser.
-2. Use the code editor to write or paste your code.
-3. Click the "Execute" button to run the code.
-4. Use the "Copy" button to copy the code to the clipboard.
-5. Click the "Save" button to save your code to the browser's local storage.
-6. The "Lock/Unlock" button allows you to lock and unlock the editor.
+1. Use the code editor to write or paste your code.
+2. Click the "Execute" button to run the code.
+3. Use the "Copy" button to copy the code to the clipboard.
+4. Click the "Save" button to save your code to the browser's local storage.
+5. The "Lock/Unlock" button allows you to lock and unlock the editor.
 
 ## Code Execution
 
