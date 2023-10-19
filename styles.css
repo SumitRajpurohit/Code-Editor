@@ -1,0 +1,32 @@
+/* Code Editor */
+.code-editor {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Code Toolbar */
+.code-toolbar {
+    margin-bottom: 10px;
+}
+
+/* Code Buttons */
+.code-button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.code-button:hover {
+    background-color: #2980b9;
+}
+
+/* Code Textarea */
+.code-text {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+}
